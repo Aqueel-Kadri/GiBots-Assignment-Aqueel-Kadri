@@ -1,0 +1,16 @@
+To run this app follow the steps:
+1)Do npm i -  to install all dependencies
+
+2)Do npm start
+
+3)Run the API's from postman 
+
+4)The API's are the following:
+
+    a)http://localhost:9000/api/v1/get_sum - get request
+    b)http://localhost:9000/api/v1/get_sorted_age - get request
+    c)http://localhost:9000/api/v1/insert_data - post request
+
+5)http://localhost:9000/api/v1/insert_data - as soon this API is hit the data will be inserted into database
+
+6)Put your database connection details in dbConfig file.
